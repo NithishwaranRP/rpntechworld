@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.979ffe5a.css",
+    "main.js": "/static/js/main.07c2761e.js",
+    "static/js/453.33c050ae.chunk.js": "/static/js/453.33c050ae.chunk.js",
+    "static/media/land2.jpg": "/static/media/land2.d08021d936d3fffd567f.jpg",
+    "static/media/whychooseus.jpg": "/static/media/whychooseus.82904e79a6a2eb89b406.jpg",
+    "static/media/land.jpg": "/static/media/land.fad98255babc73156f7e.jpg",
+    "static/media/land1.png": "/static/media/land1.7a2f3cfd5e33c1ba7453.png",
+    "static/media/Whatwebg.png": "/static/media/Whatwebg.a418e8e95e96691583a8.png",
+    "static/media/Careerbgmi.png": "/static/media/Careerbgmi.4e63702cc7105703d468.png",
+    "static/media/About.png": "/static/media/About.a47179b586ac90fc0d36.png",
+    "static/media/apk-icon.png": "/static/media/apk-icon.99b636f5663f7a12aad6.png",
+    "static/media/social-media-icon.png": "/static/media/social-media-icon.c6c230c36dc180fa7f38.png",
+    "static/media/web-icon.png": "/static/media/web-icon.d15148e1121056408a69.png",
+    "static/media/ux-icon.png": "/static/media/ux-icon.4aecb2e2fe92ed999ccb.png",
+    "static/media/branding-icon.png": "/static/media/branding-icon.81adc2a96e04a00d0c30.png",
+    "static/media/Career.png": "/static/media/Career.6ef63045ed352a7f174f.png",
+    "index.html": "/index.html",
+    "main.979ffe5a.css.map": "/static/css/main.979ffe5a.css.map",
+    "main.07c2761e.js.map": "/static/js/main.07c2761e.js.map",
+    "453.33c050ae.chunk.js.map": "/static/js/453.33c050ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979ffe5a.css",
+    "static/js/main.07c2761e.js"
+  ]
+}
