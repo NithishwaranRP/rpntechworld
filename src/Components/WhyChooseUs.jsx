@@ -31,29 +31,6 @@ const WhyChooseUs = () => {
     setFormData({ ...formData, phone });
   };
 
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-    try {
-      const response = await fetch('http://localhost:5000/send-email', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(formData),
-      });
-
-      const result = await response.json();
-      if (result.status === 'success') {
-        alert('Email sent successfully!');
-      } else {
-        alert(`Error sending email: ${result.message}`);
-      }
-    } catch (error) {
-      console.error('Error:', error);
-      alert('Error sending email.');
-    }
-  };
-
   return (
     <div className="why-choose-us">
       <motion.div
@@ -88,7 +65,7 @@ const WhyChooseUs = () => {
         transition={{ duration: 0.8 }}
       >
         <h2>Get In Touch</h2>
-        <form className="contact-form" onSubmit={handleSubmit}>
+        <form className="contact-form" >
           <input
             type="text"
             name="name"
